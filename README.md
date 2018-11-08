@@ -7,7 +7,7 @@
 
 ## Install
 ```node
-npm i
+$ npm i
 ```
 
 ## Resources
